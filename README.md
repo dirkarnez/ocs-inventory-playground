@@ -2,6 +2,9 @@ ocs-inventory-playground
 ========================
 https://github.com/OCSInventory-NG/OCSInventory-Docker-Stack
 
+### Agents
+- https://github.com/OCSInventory-NG/WindowsAgent
+
 ### Tutorials
 - https://wiki.ocsinventory-ng.org/03.Basic-documentation/Setting-up-a-OCS-Inventory-Server/
 - https://demo.ocsinventory-ng.org/
